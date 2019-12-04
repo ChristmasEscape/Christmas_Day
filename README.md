@@ -9,12 +9,29 @@
 산타 할아버지의 집을 돌아다니며 산타가 준비한 문제들을 풀어나가자!😜
 
 # 📝 <미션 내용>
->>💙Room - white
-  1. 산타의 USB에 담긴 편지 읽기
-  2. 숨겨진 
->>💛Room - yellow
+>>💙 Room - white
+    
+    🎄 산타의 USB에 담긴 편지 읽기
   
->>💝Room - red
+>>💛 Room - yellow
+    Room white 2 에서 계단을 클릭하면 Room yellow 1 로 내려올 수 있다🙂
+    
+    🎄 시계 문제를 맞춰서 화장실 문 열기
+    
+    🎄 사슴을 루돌프로 만들기
+    
+    🎄 트리에 알맞게 장식하기
+  
+>>💝 Room - red
+    
+    🎄 퍼즐 맞추기
+    
+    🎄 밖으로 나가는 열쇠 얻기
 
 
 # 📑 <답안 설명>
+>>💙 Room - white
+
+>>💛 Room - yellow
+  
+>>💝 Room - red
