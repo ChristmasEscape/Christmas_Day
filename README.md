@@ -9,11 +9,11 @@
 산타 할아버지의 집을 돌아다니며 산타가 준비한 문제들을 풀어나가자!😜
 
 # 📝 <미션 내용>
-<Room - white>
+>>💙Room - white
   
-<Room - yellow>
+>>💛Room - yellow
   
-<Room - red>
+>>💝Room - red
 
 
 # 📑 <답안 설명>
