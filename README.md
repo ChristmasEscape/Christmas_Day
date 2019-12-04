@@ -14,7 +14,6 @@
     🎄 산타의 USB에 담긴 편지 읽기
   
 >>💛 Room - yellow
-    Room white 2 에서 계단을 클릭하면 Room yellow 1 로 내려올 수 있다🙂
     
     🎄 시계 문제를 맞춰서 화장실 문 열기
     
